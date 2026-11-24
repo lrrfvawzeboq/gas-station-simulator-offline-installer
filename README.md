@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+A Table Soccer / Foosball game that allows you to establish a team with all different kind of skills to conquer the leagues. Challenge a friend to compete on the same screen or explorer your own career as a Table Soccer Manager.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | Sierra 10.12+ |
+| **Memory** | 2048 MB RAM | 2048 MB RAM |
+| **Graphics** | Intel UHD Graphics or Better | Intel UHD Graphics or Better |
+| **DirectX** | Version 10 | Version 10 |
+| **Storage** | 200 MB available space | 200 MB available space |
+| **OS *** | Windows 7 or Later | Windows 7 or Later |
 
 ---
 
